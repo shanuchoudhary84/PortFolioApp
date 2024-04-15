@@ -441,8 +441,8 @@
 
 
 .skill-animation{
-    width:50%;
-    height:90%;
+/*     width:50%;
+    height:90%; */
     display: grid;
     align-items: center;
     justify-content: space-around;
